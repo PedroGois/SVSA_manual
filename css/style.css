@@ -1,0 +1,13 @@
+.secao{
+    height: 50 rem;
+    padding: 3%;
+
+}
+.listas{
+width: auto;
+height: 20rem;
+padding: 2%;
+}
+ul {
+    list-style-type: none;
+    }
